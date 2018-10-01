@@ -5,3 +5,6 @@ Top level directories organize the problems by language. The next level organize
 
 ## C++
 - Problem 1: Two Sum
+
+## Golang
+- Problem 1: Two Sum
